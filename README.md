@@ -91,7 +91,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/postgresql.svg" alt="postgresql" height="30" width="30" />
 </div>
 
-<h3 align="center">Devops</h3>
+<h3 align="center">Devops/Cloud</h3>
 
 <div align="center">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/amazonwebservices.svg" alt="amazonwebservices" height="30" width="30" />
