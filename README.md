@@ -1,3 +1,5 @@
+----
+
 ![fondoGithub](https://github.com/user-attachments/assets/e4633caf-e9e6-452e-b674-8ab912dfa75d)
 
 <h2 align="center">Full Stack Developer | Mobile Developer | DevOps</h2>
@@ -134,7 +136,8 @@
   </a>
 </div>
 
+</br>
+
 <p style="padding-top:20px;" align="center"> <img
     src="https://komarev.com/ghpvc/?username=gengisKhanDev&label=Profile%20views&color=0e75b6&style=flat"
     alt="gengisKhanDev" /> </p>
----
