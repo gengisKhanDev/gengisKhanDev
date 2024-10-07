@@ -102,7 +102,7 @@
 
 <h3 align="center">Tools</h3>
 
-<div align="center">
+<div align="center" style="fill:white;opacity:0.7">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/git.svg" alt="git" height="30" width="30" />
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/latex.svg" alt="latex" height="30" width="30" />
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13.12.0/icons/overleaf.svg" alt="overleaf" height="30" width="30" />
